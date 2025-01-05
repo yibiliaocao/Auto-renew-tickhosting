@@ -1,4 +1,4 @@
 Server ID: 2c79bf60
-Renew status: Success
-Last renewal time: 2025-01-01 01:28:33
-New expiration time: 2025-01-12 09:36:45
+Renew status: Failed
+Last renewal time: 2025-01-05 01:28:31
+Error: Time not extended
